@@ -1,0 +1,509 @@
+Student_ID,Student_Name,Age,Gender,City,Subject,Study_Hours_Per_Week,Attendance_Percentage,Assignment_Score,Test1_Score,Test2_Score,Final_Exam_Score,Previous_Percentage,Parent_Education,Internet_Access,Extracurricular
+10387,Kabir_387,15.0,Female,Jodhpur,Science,13.0,55.6,46.0,89.0,54.0,35.0,70.0,Graduate,Yes,Yes
+10487,Aditya_487,19.0,Male,Jaipur,English,34.6,82.6,56.0,65.0,73.0,44.0,63.0,10Th,Yes,Yes
+10134,Priya_134,19.0,Female,Alwar,Science,18.2,55.2,86.0,93.0,92.0,57.0,105.0,12Th,No,Yes
+10470,Sneha_470,19.0,Female,Jodhpur,Mathematics,8.8,57.9,48.0,89.0,90.0,97.0,61.4,Graduate,Yes,No
+10110,Kunal_110,17.0,Female,Jodhpur,Science,12.1,79.0,73.0,31.0,95.0,44.0,95.3,10Th,Yes,No
+10496,Vivaan_496,19.0,Male,Jaipur,Social Science,30.1,81.3,65.0,39.0,37.0,64.0,59.4,12Th,Yes,Yes
+10152,Priya_152,16.0,Female,Udaipur,Science,29.5,91.4,38.0,57.0,64.0,76.0,72.0,Graduate,Yes,No
+10363,Aarav_363,17.0,Male,Jodhpur,Science,16.9,81.8,56.0,47.0,91.0,85.0,50.4,Post Graduate,Yes,Yes
+10331,Aanya_331,18.0,Female,Ajmer,English,12.0,87.0,88.0,60.0,39.0,48.0,65.8,12Th,Yes,No
+10425,Aanya_425,19.0,Male,Jodhpur,Science,30.4,61.7,68.0,49.0,86.0,76.0,80.7,Post Graduate,No,Yes
+10254,Meera_254,17.0,Female,Bikaner,Mathematics,17.3,77.9,42.0,93.0,63.0,34.0,66.6,12Th,Yes,Yes
+10412,Ananya_412,15.0,Male,Jaipur,Computer Science,10.1,-10.0,80.0,95.0,71.0,84.0,49.8,12Th,Yes,No
+10280,Ishita_280,16.0,Female,Jodhpur,Social Science,10.9,96.9,99.0,69.0,42.0,48.0,73.8,12Th,Yes,Yes
+10398,Riya_398,16.0,Female,Udaipur,Mathematics,24.5,94.8,68.0,49.0,96.0,34.0,41.3,Graduate,Yes,Yes
+10476,Rohan_476,16.0,Female,Ajmer,Mathematics,5.6,78.8,71.0,67.0,100.0,40.0,59.8,10Th,Yes,Yes
+10286,Kabir_286,17.0,Female,Bikaner,Computer Science,11.9,90.2,67.0,70.0,97.0,80.0,47.6,12Th,Yes,Yes
+10420,Kunal_420,17.0,Male,,Computer Science,33.5,72.1,88.0,42.0,37.0,97.0,66.4,Post Graduate,Yes,Yes
+10489,Pooja_489,17.0,Female,Bikaner,Science,29.9,59.9,54.0,83.0,35.0,35.0,76.8,10Th,No,Yes
+10158,Priya_158,19.0,Female,Bikaner,English,33.3,98.9,83.0,82.0,96.0,32.0,85.6,10Th,Yes,Yes
+10169,Kunal_169,15.0,Male,Bikaner,English,14.3,69.9,75.0,76.0,93.0,40.0,76.5,Post Graduate,Yes,No
+10142,Meera_142,19.0,Female,Kota,Science,16.7,82.6,62.0,72.0,79.0,37.0,75.8,Graduate,Yes,No
+10409,Sneha_409,17.0,Female,Kota,Social Science,34.4,55.8,89.0,31.0,90.0,78.0,42.1,Graduate,Yes,Yes
+10406,Aanya_406,18.0,Female,Ajmer,Computer Science,14.7,66.4,45.0,,33.0,66.0,58.0,Graduate,Yes,No
+10445,Pooja_445,18.0,Male,Kota,Mathematics,19.8,78.1,62.0,30.0,,67.0,91.6,Post Graduate,No,No
+10055,Aarav_55,16.0,Male,Alwar,Science,7.6,88.6,47.0,41.0,99.0,76.0,46.0,Graduate,Yes,No
+10040,Ananya_40,18.0,Male,Jaipur,English,22.7,61.2,99.0,37.0,32.0,69.0,,Post Graduate,Yes,No
+10045,Riya_45,18.0,Female,Kota,Computer Science,20.6,65.1,66.0,100.0,57.0,85.0,79.1,12Th,Yes,Yes
+10416,Ananya_416,17.0,Female,Jaipur,Social Science,7.1,96.8,61.0,91.0,52.0,35.0,87.2,Post Graduate,Yes,No
+10197,Priya_197,16.0,Male,Kota,Science,22.6,98.0,36.0,54.0,31.0,97.0,50.0,Graduate,No,Yes
+10290,Ishita_290,15.0,Male,Alwar,Science,25.8,97.3,70.0,94.0,65.0,66.0,75.5,Graduate,Yes,Yes
+10144,Kavya_144,17.0,Female,,Social Science,17.9,68.4,97.0,51.0,82.0,58.0,59.7,12Th,Yes,No
+10376,Ananya_376,15.0,Male,Ajmer,English,30.5,92.6,64.0,70.0,91.0,96.0,83.6,Graduate,Yes,No
+10085,Pooja_85,17.0,Female,Bikaner,Computer Science,20.1,63.5,63.0,85.0,125.0,39.0,56.3,Graduate,Yes,No
+10062,Vivaan_62,19.0,Male,Udaipur,Science,10.9,63.2,74.0,35.0,95.0,85.0,85.4,12Th,Yes,Yes
+10319,Kunal_319,16.0,Male,Alwar,Science,27.5,80.3,58.0,60.0,97.0,67.0,54.3,10Th,Yes,No
+10284,Aanya_284,15.0,Male,Alwar,Mathematics,23.0,67.6,57.0,69.0,39.0,82.0,90.4,Post Graduate,Yes,No
+10488,Vivaan_488,18.0,Female,Ajmer,Science,13.9,94.3,58.0,86.0,76.0,65.0,71.2,10Th,Yes,No
+10275,Aarav_275,17.0,Male,Udaipur,English,19.6,90.7,98.0,74.0,60.0,72.0,82.0,12Th,Yes,Yes
+10499,Sneha_499,15.0,Male,Udaipur,Computer Science,32.6,61.5,73.0,51.0,91.0,50.0,82.7,10Th,Yes,Yes
+10182,Arjun_182,15.0,Male,Udaipur,English,12.9,86.0,54.0,75.0,60.0,43.0,41.7,Graduate,Yes,No
+10472,Ishita_472,15.0,Male,Jaipur,Science,2.9,84.5,80.0,69.0,42.0,49.0,89.9,10Th,Yes,No
+10234,Kunal_234,12.0,Female,Jaipur,English,26.0,90.4,50.0,98.0,81.0,63.0,42.4,12Th,Yes,Yes
+10006,Kabir_6,15.0,male,Jaipur,English,8.4,97.2,46.0,99.0,94.0,72.0,94.6,Post Graduate,Yes,No
+10212,Aanya_212,19.0,Male,Delhi,Social Science,18.2,56.6,95.0,100.0,69.0,88.0,66.7,Post Graduate,Yes,No
+10079,Kabir_79,17.0,Female,Bikaner,Science,33.6,87.8,72.0,64.0,70.0,46.0,78.1,12Th,Yes,No
+10429,Ananya_429,15.0,Female,Ajmer,Mathematics,24.2,56.6,51.0,80.0,47.0,73.0,78.8,Graduate,Yes,Yes
+10235,Aditya_235,15.0,Male,Alwar,Science,21.0,66.9,85.0,78.0,83.0,86.0,47.0,Graduate,Yes,No
+10394,Kabir_394,16.0,Female,Alwar,English,28.0,91.8,57.0,78.0,78.0,41.0,67.4,Graduate,Yes,No
+10009,Priya_9,16.0,Female,Delhi,Science,29.2,91.4,96.0,58.0,56.0,90.0,73.7,Graduate,Yes,Yes
+10338,Sneha_338,19.0,Female,Alwar,Science,25.1,95.5,40.0,85.0,67.0,55.0,94.6,10Th,Yes,Yes
+10042,Aarav_42,19.0,Male,Ajmer,English,11.4,105.0,81.0,88.0,36.0,79.0,89.1,12Th,Yes,Yes
+10281,Aditya_281,19.0,Male,Alwar,Computer Science,7.3,82.9,61.0,37.0,87.0,57.0,50.8,12Th,Yes,No
+10403,Aarav_403,19.0,Male,Delhi,Mathematics,17.0,60.8,85.0,71.0,49.0,75.0,63.3,Post Graduate,Yes,No
+10261,Aanya_261,18.0,Male,Bikaner,Social Science,,93.7,89.0,91.0,92.0,74.0,42.4,Post Graduate,Yes,No
+10310,Aanya_310,18.0,Female,Jodhpur,English,32.9,74.1,95.0,60.0,55.0,75.0,76.2,Graduate,No,No
+10209,Yash_209,16.0,Female,Ajmer,Social Science,5.3,94.5,92.0,93.0,54.0,44.0,68.3,10Th,Yes,Yes
+10240,Meera_240,17.0,Female,Jodhpur,Science,11.2,63.7,50.0,32.0,84.0,69.0,77.2,12Th,Yes,Yes
+10072,Kabir_72,15.0,Female,Bikaner,Mathematics,17.4,59.7,38.0,92.0,82.0,94.0,43.0,12Th,Yes,No
+10139,Rohan_139,15.0,Male,Alwar,Computer Science,31.8,89.4,74.0,32.0,86.0,38.0,43.2,10Th,Yes,Yes
+10174,Rohan_174,16.0,Female,Alwar,Science,14.8,66.0,81.0,89.0,82.0,81.0,73.4,12Th,Yes,No
+10114,Sneha_114,16.0,Male,Ajmer,English,25.0,87.0,69.0,75.0,44.0,65.0,76.7,12Th,Yes,Yes
+10057,Aditya_57,19.0,Female,Jodhpur,Science,3.4,55.2,62.0,77.0,79.0,95.0,53.0,Graduate,Yes,No
+10056,Vivaan_56,16.0,Female,Kota,Social Science,5.7,56.5,91.0,52.0,76.0,81.0,59.9,,Yes,No
+10120,Aarav_120,15.0,Male,Ajmer,Computer Science,24.0,88.9,97.0,55.0,86.0,75.0,85.4,10Th,Yes,Yes
+10401,Kunal_401,15.0,Female,Ajmer,Computer Science,29.9,86.9,66.0,49.0,58.0,45.0,67.3,Graduate,Yes,Yes
+10092,Aditya_92,17.0,Female,Bikaner,Science,14.3,67.0,76.0,69.0,,69.0,92.9,Graduate,Yes,Yes
+10024,Riya_24,19.0,Female,Jaipur,English,28.6,81.1,40.0,32.0,39.0,82.0,50.3,Graduate,No,Yes
+10084,Arjun_84,16.0,Male,Ajmer,Science,23.1,80.9,67.0,51.0,79.0,90.0,89.3,Post Graduate,No,Yes
+10345,Kavya_345,18.0,Male,Kota,Computer Science,7.5,96.5,55.0,68.0,74.0,52.0,73.3,10Th,Yes,No
+10192,Pooja_192,18.0,Female,Bikaner,Mathematics,2.1,69.2,86.0,81.0,70.0,64.0,90.6,10Th,Yes,No
+10455,Aditya_455,19.0,Female,Alwar,Science,11.6,63.6,68.0,81.0,69.0,66.0,57.4,12Th,No,No
+10122,Riya_122,18.0,Female,Jaipur,Science,7.8,90.0,40.0,82.0,36.0,50.0,75.1,Graduate,Yes,yes
+10002,Yash_2,15.0,Male,Udaipur,Social Science,30.8,84.5,42.0,91.0,35.0,32.0,51.0,12Th,Yes,Yes
+10161,Priya_161,15.0,Female,Delhi,Mathematics,32.0,56.0,96.0,68.0,57.0,32.0,93.4,Post Graduate,Yes,Yes
+10199,Tanya_199,19.0,Male,Jaipur,Mathematics,32.1,70.5,77.0,64.0,32.0,75.0,71.7,12Th,Yes,No
+10492,Ananya_492,18.0,Female,Alwar,Social Science,24.9,82.6,38.0,51.0,71.0,42.0,90.0,Graduate,Yes,No
+10249,Yash_249,17.0,Male,Jaipur,English,5.9,55.6,78.0,44.0,41.0,52.0,80.2,12Th,Yes,No
+10384,Aditya_384,17.0,Female,Alwar,Mathematics,5.8,91.2,65.0,99.0,63.0,40.0,40.9,10Th,Yes,Yes
+10104,Pooja_104,18.0,Female,Jaipur,Mathematics,21.4,91.8,65.0,33.0,99.0,65.0,75.7,Graduate,Yes,Yes
+10159,Aditya_159,15.0,Female,Ajmer,Science,34.6,73.3,99.0,85.0,58.0,63.0,69.3,Graduate,Yes,No
+10263,Vivaan_263,16.0,Male,Jodhpur,English,2.2,63.8,79.0,50.0,88.0,75.0,68.5,Graduate,No,Yes
+10145,Priya_145,15.0,FEMALE,Udaipur,Social Science,15.4,82.6,40.0,97.0,77.0,46.0,55.3,12Th,Yes,Yes
+10135,Aarav_135,18.0,Female,Alwar,Science,24.8,97.4,70.0,38.0,87.0,65.0,54.6,Graduate,No,Yes
+10231,Meera_231,17.0,Female,Ajmer,Computer Science,10.7,98.6,72.0,62.0,91.0,39.0,76.9,Graduate,Yes,Yes
+10358,Ishita_358,18.0,Female,Udaipur,English,25.5,82.1,71.0,73.0,91.0,74.0,53.2,10Th,Yes,No
+10038,Arjun_38,19.0,Male,Udaipur,Mathematics,34.6,78.2,64.0,47.0,88.0,30.0,55.7,12Th,No,No
+10377,Vivaan_377,18.0,Male,Kota,Computer Science,30.5,81.9,45.0,47.0,88.0,72.0,90.6,10Th,Yes,No
+10243,Diya_243,16.0,Male,Kota,Social Science,24.6,80.3,54.0,52.0,40.0,49.0,42.5,,Yes,No
+10219,Diya_219,19.0,Female,Alwar,Social Science,19.6,72.4,95.0,50.0,50.0,96.0,65.2,12Th,Yes,Yes
+10495,Sneha_495,16.0,Male,Ajmer,Science,7.8,59.3,92.0,84.0,45.0,91.0,80.3,Post Graduate,Yes,No
+10309,Aanya_309,17.0,Female,Udaipur,Social Science,17.9,61.7,52.0,61.0,98.0,95.0,79.0,Post Graduate,Yes,Yes
+10266,Kunal_266,19.0,Male,Udaipur,Mathematics,19.5,92.5,50.0,77.0,57.0,90.0,91.5,10Th,Yes,Yes
+10279,Aarav_279,16.0,Female,Delhi,Mathematics,11.0,94.5,98.0,35.0,36.0,92.0,72.3,10Th,Yes,Yes
+10008,Aditya_8,16.0,Female,Bikaner,English,26.9,97.5,58.0,51.0,53.0,94.0,86.8,Graduate,Yes,Yes
+10166,Pooja_166,17.0,Female,Alwar,Science,25.7,64.9,97.0,73.0,52.0,46.0,61.4,Post Graduate,Yes,Yes
+10438,Yash_438,16.0,Male,Delhi,Computer Science,24.2,60.9,93.0,90.0,35.0,73.0,66.3,Post Graduate,Yes,No
+10486,Kavya_486,18.0,Male,Udaipur,Computer Science,21.4,63.1,96.0,95.0,62.0,58.0,84.3,10Th,Yes,Yes
+10498,Tanya_498,17.0,Male,Jaipur,Science,11.7,97.6,43.0,68.0,41.0,34.0,86.3,12Th,Yes,No
+10176,Riya_176,16.0,Male,Udaipur,Computer Science,15.6,58.8,82.0,76.0,38.0,30.0,93.9,Post Graduate,Yes,Yes
+10328,Ishita_328,15.0,Male,DELHI,Science,31.3,64.6,80.0,77.0,36.0,75.0,78.0,Post Graduate,Yes,Yes
+10456,Aanya_456,18.0,Male,Alwar,Computer Science,16.7,88.9,43.0,80.0,54.0,31.0,47.6,12Th,Yes,Yes
+10081,Aditya_81,16.0,Male,Alwar,English,33.5,95.5,71.0,37.0,64.0,30.0,48.2,Post Graduate,Yes,No
+10452,Pooja_452,17.0,Male,Delhi,Computer Science,13.8,96.8,88.0,79.0,91.0,63.0,86.8,Post Graduate,Yes,No
+10483,Kunal_483,17.0,Female,Udaipur,Social Science,3.0,68.2,87.0,88.0,78.0,59.0,92.0,Post Graduate,Yes,Yes
+10221,Rahul_221,18.0,Male,Kota,English,15.7,87.6,74.0,96.0,30.0,36.0,42.5,12Th,Yes,No
+10369,Aarav_369,18.0,Female,Jaipur,Mathematics,22.7,74.8,59.0,79.0,94.0,98.0,92.1,Graduate,No,No
+10274,Arjun_274,18.0,Female,Jodhpur,Social Science,27.7,59.1,49.0,63.0,38.0,95.0,80.7,Graduate,Yes,Yes
+10073,Meera_73,18.0,Male,Bikaner,English,2.5,82.8,36.0,64.0,42.0,73.0,49.2,Post Graduate,Yes,No
+10361,Arjun_361,15.0,Male,Udaipur,Computer Science,7.1,60.7,98.0,44.0,70.0,42.0,75.1,Post Graduate,Yes,No
+10007,Ishita_7,19.0,Female,Ajmer,Computer Science,32.2,60.5,61.0,61.0,37.0,40.0,45.3,10Th,No,No
+10190,Riya_190,16.0,Female,Bikaner,Science,2.6,63.7,58.0,53.0,30.0,74.0,74.4,12Th,Yes,No
+10247,Vivaan_247,19.0,Male,Alwar,Computer Science,7.6,85.7,88.0,62.0,49.0,61.0,54.7,Post Graduate,Yes,No
+10462,Ishita_462,16.0,Male,Alwar,English,11.9,73.8,86.0,58.0,79.0,75.0,95.7,10Th,Yes,Yes
+10031,Rohan_31,15.0,Female,Udaipur,Computer Science,26.9,86.5,43.0,51.0,85.0,91.0,95.2,12Th,Yes,Yes
+10382,Yash_382,18.0,Female,Jodhpur,Science,9.8,80.9,69.0,34.0,50.0,63.0,53.7,Post Graduate,Yes,Yes
+10350,Arjun_350,19.0,Male,Ajmer,Science,11.7,67.0,77.0,65.0,72.0,64.0,58.1,10Th,Yes,Yes
+10016,Sneha_16,19.0,Female,Udaipur,Computer Science,3.4,87.1,42.0,70.0,71.0,79.0,88.5,Graduate,Yes,Yes
+10453,Kavya_453,16.0,Male,Udaipur,Computer Science,32.0,73.8,70.0,51.0,53.0,90.0,47.9,Post Graduate,Yes,No
+10375,Aarav_375,17.0,Female,Kota,Social Science,22.2,57.5,93.0,67.0,90.0,38.0,89.8,Graduate,Yes,Yes
+10012,Aarav_12,16.0,Male,Delhi,Social Science,16.9,73.2,73.0,96.0,56.0,63.0,84.1,Post Graduate,Yes,Yes
+10330,Vivaan_330,18.0,Female,Ajmer,Science,18.4,82.8,58.0,91.0,33.0,96.0,66.2,Graduate,No,No
+10346,Aditya_346,18.0,Male,Kota,Science,32.0,57.5,73.0,88.0,56.0,75.0,85.7,12Th,Yes,No
+10087,Arjun_87,16.0,Male,Kota,Mathematics,22.0,94.9,35.0,53.0,82.0,42.0,58.1,10Th,Yes,No
+10269,Kabir_269,17.0,Female,Kota,Social Science,11.6,92.7,45.0,79.0,42.0,47.0,41.7,12Th,Yes,No
+10440,Rahul_440,17.0,Female,Jaipur,English,25.9,59.2,71.0,51.0,72.0,62.0,73.1,Graduate,No,Yes
+10103,Yash_103,17.0,Male,Alwar,Science,12.6,94.3,68.0,58.0,97.0,98.0,65.7,Graduate,Yes,No
+10493,Kabir_493,15.0,Male,Jodhpur,Mathematics,14.7,71.9,77.0,70.0,93.0,85.0,46.1,10Th,Yes,Yes
+10299,Arjun_299,17.0,Male,Udaipur,Social Science,15.8,59.0,51.0,99.0,75.0,53.0,71.7,12Th,Yes,Yes
+10400,Arjun_400,18.0,Female,Jaipur,Mathematics,14.9,62.6,63.0,36.0,98.0,99.0,68.3,12Th,Yes,No
+10100,Rohan_100,18.0,Female,Jodhpur,Computer Science,6.0,77.4,38.0,66.0,40.0,50.0,60.2,10Th,Yes,No
+10208,Yash_208,19.0,Male,Jaipur,Computer Science,6.4,66.2,76.0,39.0,74.0,100.0,53.1,Graduate,Yes,Yes
+10315,Priya_315,16.0,Male,Bikaner,Mathematics,10.6,74.1,58.0,61.0,64.0,70.0,57.1,10Th,Yes,Yes
+10041,Yash_41,17.0,Female,Alwar,Social Science,6.0,98.0,69.0,57.0,60.0,87.0,76.7,10Th,Yes,Yes
+10019,Pooja_19,16.0,Male,Jaipur,Computer Science,23.1,56.9,36.0,85.0,48.0,57.0,73.9,10Th,Yes,No
+10306,Ananya_306,18.0,Male,Ajmer,Social Science,25.4,71.1,46.0,56.0,92.0,97.0,86.7,12Th,Yes,No
+10379,Kavya_379,18.0,Female,Bikaner,Science,9.8,62.2,58.0,53.0,86.0,96.0,47.5,12Th,No,Yes
+10013,Rahul_13,,Male,Bikaner,Science,6.7,71.5,40.0,67.0,55.0,34.0,41.1,Graduate,Yes,Yes
+10155,Pooja_155,18.0,Female,Jodhpur,Social Science,30.8,89.1,65.0,73.0,70.0,43.0,91.7,10Th,Yes,Yes
+10101,Aanya_101,19.0,Female,Alwar,Social Science,33.0,59.3,55.0,45.0,30.0,58.0,82.7,Post Graduate,Yes,Yes
+10205,Ananya_205,18.0,Female,Jaipur,Computer Science,28.6,76.4,39.0,60.0,86.0,51.0,41.6,Graduate,Yes,Yes
+10355,Rohan_355,15.0,Female,Jaipur,English,29.6,95.0,98.0,99.0,63.0,50.0,69.1,Post Graduate,Yes,No
+10372,Kavya_372,17.0,Male,Jaipur,Social Science,60.0,98.5,58.0,100.0,42.0,55.0,91.8,Graduate,Yes,No
+10390,Sneha_390,18.0,Male,Jodhpur,Computer Science,12.5,96.6,77.0,43.0,45.0,83.0,45.3,12Th,Yes,No
+10389,Aditya_389,19.0,Female,Ajmer,Social Science,12.5,,91.0,31.0,97.0,84.0,88.4,Graduate,No,Yes
+10348,Ishita_348,19.0,Female,Jodhpur,Science,12.5,76.0,40.0,94.0,78.0,59.0,70.9,Post Graduate,Yes,No
+10404,Riya_404,15.0,Male,Udaipur,Social Science,23.6,91.8,60.0,74.0,87.0,89.0,53.1,12Th,Yes,Yes
+10255,Meera_255,15.0,Female,Jodhpur,Mathematics,32.8,62.8,53.0,75.0,87.0,94.0,47.9,12Th,Yes,No
+10058,Riya_58,15.0,Male,Alwar,Social Science,2.0,59.5,44.0,63.0,34.0,67.0,62.9,12Th,Yes,Yes
+10226,Kabir_226,16.0,Male,Delhi,English,17.1,84.3,72.0,59.0,100.0,61.0,73.8,12Th,No,Yes
+10433,Vivaan_433,16.0,Female,Bikaner,Computer Science,9.0,62.9,77.0,55.0,35.0,54.0,89.1,Post Graduate,Yes,No
+10497,Yash_497,15.0,Male,Alwar,Science,15.1,75.4,67.0,99.0,62.0,54.0,44.1,12Th,Yes,No
+10353,Kavya_353,17.0,Male,Udaipur,Social Science,32.0,89.7,56.0,89.0,52.0,47.0,92.4,Post Graduate,Yes,Yes
+10245,Tanya_245,15.0,Female,Ajmer,Social Science,13.5,70.7,80.0,97.0,84.0,32.0,91.2,12Th,No,No
+10431,Aanya_431,17.0,Female,Bikaner,Computer Science,24.2,61.5,97.0,66.0,67.0,84.0,46.8,10Th,Yes,Yes
+10128,Arjun_128,18.0,Male,Bikaner,Mathematics,31.7,94.7,70.0,83.0,63.0,45.0,85.3,Post Graduate,Yes,No
+10313,Rohan_313,19.0,Male,Bikaner,Science,5.3,97.1,69.0,63.0,38.0,50.0,42.7,Graduate,Yes,No
+10198,Meera_198,17.0,Female,Udaipur,Science,34.8,95.1,48.0,96.0,58.0,68.0,86.0,Post Graduate,Yes,Yes
+10157,Tanya_157,19.0,Female,Bikaner,Mathematics,3.7,,57.0,75.0,81.0,59.0,47.2,Graduate,Yes,No
+10200,Pooja_200,16.0,Male,Bikaner,Mathematics,25.5,59.1,,63.0,83.0,34.0,80.0,12Th,Yes,Yes
+10132,Tanya_132,18.0,Female,Jaipur,Mathematics,25.9,99.2,72.0,93.0,68.0,71.0,93.1,10Th,Yes,Yes
+10300,Kavya_300,18.0,Female,Udaipur,English,16.2,82.1,37.0,86.0,60.0,38.0,85.8,Graduate,Yes,No
+10342,Aditya_342,16.0,Female,Bikaner,Mathematics,11.0,59.5,62.0,39.0,75.0,76.0,74.9,12Th,Yes,No
+10137,Kunal_137,19.0,Female,Ajmer,Science,34.8,70.0,37.0,41.0,73.0,86.0,54.7,Post Graduate,Yes,No
+10032,Vivaan_32,18.0,Female,Alwar,Mathematics,,83.2,98.0,32.0,52.0,48.0,89.0,10Th,Yes,No
+10077,Arjun_77,15.0,Male,Ajmer,Science,18.8,68.4,56.0,94.0,41.0,40.0,69.2,Post Graduate,Yes,No
+10236,Rohan_236,19.0,Female,Jaipur,English,9.5,87.6,90.0,37.0,61.0,37.0,65.5,10Th,Yes,Yes
+10256,Pooja_256,18.0,Female,Kota,English,13.8,84.9,79.0,53.0,89.0,71.0,87.0,Graduate,Yes,Yes
+10207,Vivaan_207,15.0,Female,Jaipur,Science,11.2,63.2,59.0,92.0,61.0,36.0,52.8,Post Graduate,Yes,Yes
+10178,Diya_178,19.0,Male,Ajmer,Science,32.9,70.6,95.0,93.0,82.0,65.0,60.8,Post Graduate,No,No
+10127,Meera_127,18.0,Male,Udaipur,Social Science,10.5,64.4,87.0,81.0,75.0,79.0,50.7,Post Graduate,Yes,No
+10430,Kavya_430,17.0,Female,Jaipur,Mathematics,2.3,83.7,72.0,75.0,69.0,62.0,56.9,Post Graduate,Yes,Yes
+10477,Tanya_477,16.0,Male,Ajmer,English,8.1,86.4,47.0,42.0,37.0,55.0,78.0,Post Graduate,Yes,No
+10396,Rahul_396,19.0,Male,Jodhpur,Mathematics,29.7,57.4,96.0,72.0,65.0,98.0,72.4,Post Graduate,Yes,No
+10211,Rohan_211,15.0,Female,Delhi,Mathematics,15.0,89.5,55.0,59.0,93.0,48.0,60.9,12Th,Yes,Yes
+10385,Arjun_385,19.0,Male,Delhi,Science,2.5,69.8,94.0,94.0,81.0,90.0,85.3,12Th,Yes,Yes
+10173,Aarav_173,19.0,Male,Alwar,Science,29.4,94.9,74.0,63.0,87.0,55.0,88.7,10Th,Yes,Yes
+10108,Rahul_108,15.0,Female,Jaipur,English,34.0,75.3,62.0,86.0,85.0,70.0,77.2,Graduate,Yes,No
+10017,  Aarav_17,15.0,Male,Alwar,English,32.3,86.1,85.0,83.0,70.0,51.0,49.9,10Th,Yes,Yes
+10423,Aarav_423,15.0,Female,Alwar,Social Science,10.5,70.8,78.0,43.0,76.0,88.0,49.7,12Th,Yes,Yes
+10088,Vivaan_88,,Female,Kota,Social Science,33.1,97.3,91.0,63.0,45.0,42.0,89.5,12Th,Yes,Yes
+10276,Sneha_276,15.0,Male,Bikaner,Mathematics,24.8,63.0,45.0,99.0,,73.0,76.7,Post Graduate,Yes,Yes
+10444,Arjun_444,19.0,Male,Udaipur,Computer Science,2.6,71.9,86.0,75.0,95.0,66.0,68.1,Graduate,Yes,Yes
+10011,Rahul_11,16.0,Female,Bikaner,Mathematics,11.9,66.4,53.0,36.0,94.0,96.0,49.3,Graduate,No,Yes
+10311,Ishita_311,19.0,Male,Bikaner,English,18.1,93.4,100.0,46.0,68.0,53.0,86.0,Post Graduate,Yes,No
+10204,Ananya_204,16.0,Male,kota,English,22.0,82.3,95.0,77.0,31.0,64.0,62.7,Post Graduate,Yes,Yes
+10184,Meera_184,19.0,Male,Kota,Social Science,3.0,90.7,100.0,72.0,50.0,74.0,42.5,12Th,Yes,Yes
+10095,Ishita_95,19.0,Male,Alwar,Computer Science,29.1,88.8,94.0,60.0,41.0,44.0,94.7,10Th,Yes,Yes
+10337,Yash_337,16.0,Male,Jaipur,Science,2.1,62.7,67.0,34.0,40.0,50.0,87.9,Graduate,Yes,Yes
+10129,Priya_129,17.0,Male,Udaipur,Mathematics,19.3,61.2,87.0,91.0,45.0,50.0,72.6,Graduate,Yes,Yes
+10344,Sneha_344,17.0,Male,Delhi,Science,18.5,76.8,94.0,52.0,85.0,99.0,66.2,Graduate,Yes,No
+10463,Aditya_463,17.0,Male,Jaipur,English,32.9,88.4,85.0,72.0,74.0,-8.0,56.2,12Th,No,No
+10211,Rohan_211,15.0,Female,Delhi,Mathematics,15.0,89.5,55.0,59.0,93.0,48.0,60.9,12Th,Yes,Yes
+10468,Vivaan_468,17.0,Female,Ajmer,Computer Science,13.4,66.5,67.0,41.0,36.0,36.0,86.6,10Th,Yes,No
+10322,  Kabir_322  ,18.0,Male,Delhi,Science,28.3,81.6,44.0,55.0,36.0,77.0,65.6,Graduate,No,No
+10294,Arjun_294,15.0,Female,Alwar,Computer Science,7.5,98.1,59.0,32.0,32.0,37.0,93.9,Graduate,Yes,No
+10357,Ananya_357,15.0,Male,Jaipur,Computer Science,5.3,69.5,52.0,36.0,74.0,61.0,65.9,10Th,Yes,Yes
+10025,Ananya_25,17.0,Male,,Social Science,25.2,88.7,71.0,62.0,94.0,65.0,54.8,12Th,Yes,Yes
+10201,Ananya_201,18.0,Female,Ajmer,Science,25.5,58.1,54.0,57.0,38.0,46.0,86.1,Graduate,Yes,Yes
+10214,Kabir_214,17.0,Male,Kota,Social Science,13.2,67.4,41.0,41.0,66.0,79.0,70.7,10Th,Yes,Yes
+10448,Aanya_448,16.0,Male,Jaipur,Computer Science,22.9,81.6,95.0,91.0,98.0,48.0,65.4,Graduate,Yes,Yes
+10194,Priya_194,19.0,Male,Delhi,Mathematics,3.7,59.5,53.0,56.0,32.0,57.0,58.9,10Th,Yes,Yes
+10107,Aarav_107,17.0,Male,Kota,English,9.5,78.1,100.0,100.0,40.0,90.0,45.4,Post Graduate,Yes,Yes
+10359,Tanya_359,15.0,Female,Alwar,Mathematics,14.1,63.0,65.0,76.0,48.0,43.0,40.5,12Th,Yes,Yes
+10091,Yash_91,18.0,Female,Udaipur,Computer Science,23.6,77.7,49.0,50.0,70.0,75.0,50.5,Post Graduate,No,Yes
+10457,Diya_457,16.0,Female,Jodhpur,English,29.3,73.5,86.0,70.0,99.0,63.0,54.2,Graduate,Yes,Yes
+10248,Tanya_248,18.0,Female,Delhi,Science,24.9,98.0,55.0,44.0,91.0,99.0,58.8,Graduate,Yes,Yes
+10259,Pooja_259,17.0,Male,Udaipur,Social Science,7.8,98.4,78.0,73.0,35.0,93.0,87.8,10Th,No,No
+10043,Priya_43,15.0,Male,Udaipur,English,4.4,63.6,39.0,32.0,77.0,35.0,60.1,Graduate,Yes,No
+10424,Aditya_424,17.0,Male,Kota,English,26.3,83.7,84.0,92.0,50.0,87.0,71.0,Graduate,Yes,No
+10437,Tanya_437,18.0,Female,Jodhpur,Computer Science,22.8,73.8,100.0,88.0,56.0,57.0,51.9,10Th,Yes,No
+10373,Riya_373,18.0,Male,Bikaner,Science,12.8,85.5,46.0,97.0,72.0,32.0,84.6,12Th,Yes,Yes
+10082,Priya_82,17.0,Male,Alwar,Science,34.6,97.4,82.0,93.0,90.0,60.0,92.0,Post Graduate,Yes,No
+10485,Riya_485,15.0,Female,Kota,Social Science,10.4,83.5,83.0,72.0,55.0,65.0,81.3,10Th,Yes,Yes
+10123,Kavya_123,15.0,Male,Udaipur,Social Science,29.9,72.2,46.0,71.0,89.0,62.0,57.8,Graduate,Yes,No
+10061,Diya_61,15.0,Male,Jodhpur,Mathematics,16.9,93.0,47.0,58.0,42.0,92.0,87.2,12Th,Yes,No
+10106,Ananya_106,15.0,Male,Delhi,Mathematics,4.8,94.1,95.0,33.0,74.0,38.0,80.2,Graduate,Yes,Yes
+10171,Riya_171  ,18.0,Male,Jodhpur,Science,6.5,96.2,49.0,83.0,32.0,43.0,84.9,12Th,Yes,Yes
+10022,Ananya_22,15.0,Male,Delhi,Computer Science,17.3,89.3,66.0,54.0,93.0,74.0,76.4,Post Graduate,No,No
+10307,Meera_307,16.0,Female,Bikaner,Social Science,11.3,89.1,58.0,-5.0,75.0,66.0,51.6,Post Graduate,Yes,Yes
+10065,Pooja_65,15.0,Female,Jaipur,Social Science,13.8,97.6,70.0,50.0,35.0,87.0,62.4,12Th,Yes,Yes
+10388,Kunal_388,18.0,Male,Udaipur,Mathematics,3.8,99.2,64.0,59.0,39.0,88.0,60.8,12Th,Yes,Yes
+10415,Riya_415,16.0,Female,Jaipur,Mathematics,31.6,77.0,76.0,89.0,32.0,57.0,51.3,10Th,Yes,Yes
+10341,Yash_341,18.0,Female,Ajmer,English,13.4,62.3,43.0,33.0,60.0,55.0,49.2,10Th,Yes,Yes
+10446,Priya_446,17.0,Female,Kota,Social Science,4.6,75.5,56.0,39.0,56.0,51.0,59.3,10Th,No,No
+10285,Sneha_285,15.0,Male,Jodhpur,English,9.3,70.5,59.0,94.0,69.0,90.0,40.4,Post Graduate,Yes,No
+10426,Ishita_426,17.0,Female,Ajmer,Computer Science,14.4,82.7,82.0,30.0,62.0,73.0,62.0,12Th,Yes,No
+10075,Ishita_75,19.0,Female,Bikaner,Mathematics,27.8,56.8,66.0,,91.0,95.0,89.0,Post Graduate,Yes,Yes
+10051,Aarav_51,15.0,Female,Jodhpur,Science,24.9,64.1,51.0,54.0,95.0,90.0,68.4,10Th,Yes,No
+10056,Vivaan_56,16.0,Female,Kota,Social Science,5.7,56.5,91.0,52.0,76.0,81.0,59.9,,Yes,No
+10126,Priya_126,16.0,Female,Jaipur,Computer Science,17.6,83.0,99.0,34.0,59.0,80.0,87.1,Graduate,Yes,No
+10432,Kavya_432,15.0,Male,Udaipur,English,22.2,96.7,63.0,82.0,81.0,51.0,66.4,10Th,Yes,Yes
+10262,Vivaan_262,18.0,Male,Ajmer,English,28.5,90.1,98.0,56.0,82.0,75.0,43.9,Graduate,Yes,No
+10146,Yash_146,17.0,Female,Delhi,Computer Science,8.2,90.5,76.0,35.0,63.0,84.0,94.0,Post Graduate,No,No
+10237,Priya_237,15.0,Female,Ajmer,English,29.8,64.3,35.0,61.0,30.0,80.0,56.1,Post Graduate,Yes,Yes
+10386,Ananya_386,19.0,Male,Delhi,Social Science,11.8,99.2,42.0,35.0,60.0,89.0,57.4,Graduate,Yes,Yes
+10460,Arjun_460,17.0,Male,Jodhpur,Science,15.6,89.1,79.0,55.0,100.0,40.0,78.8,10Th,Yes,No
+10450,Kabir_450,18.0,Female,Jodhpur,Mathematics,16.0,94.5,88.0,72.0,70.0,52.0,85.0,Post Graduate,No,No
+10191,Sneha_191,16.0,Female,Ajmer,Mathematics,4.6,58.3,83.0,76.0,86.0,100.0,81.6,Post Graduate,Yes,Yes
+10323,Arjun_323,19.0,Male,Jodhpur,English,7.3,82.5,72.0,100.0,99.0,50.0,46.2,Graduate,Yes,Yes
+10407,Arjun_407,18.0,Female,Bikaner,Social Science,32.1,91.6,51.0,99.0,99.0,33.0,95.5,12Th,Yes,No
+10421,Meera_421,19.0,Female,Jodhpur,Mathematics,21.0,56.9,43.0,38.0,95.0,86.0,48.7,10Th,Yes,Yes
+10266,Kunal_266,19.0,Male,Udaipur,Mathematics,19.5,92.5,50.0,77.0,57.0,90.0,91.5,10Th,Yes,Yes
+10187,Ishita_187,15.0,Male,Ajmer,Science,2.1,88.5,57.0,39.0,99.0,53.0,63.1,Graduate,Yes,Yes
+10163,Kavya_163,17.0,Female,Kota,Science,8.6,66.6,79.0,47.0,89.0,47.0,79.5,Graduate,Yes,No
+10089,Meera_89,15.0,Male,Udaipur,Social Science,25.4,98.4,86.0,90.0,58.0,72.0,54.4,Post Graduate,Yes,Yes
+10053,Aditya_53,18.0,Male,Bikaner,Social Science,24.3,73.6,40.0,49.0,34.0,57.0,68.3,12Th,Yes,Yes
+10336,Arjun_336,17.0,Male,Delhi,Science,27.5,87.9,83.0,34.0,75.0,79.0,67.2,10Th,Yes,No
+10402,Rohan_402,16.0,Male,Bikaner,Mathematics,25.2,83.0,37.0,53.0,87.0,90.0,75.1,Post Graduate,Yes,No
+10381,Priya_381,19.0,Female,Jaipur,English,33.4,86.1,63.0,66.0,60.0,55.0,52.6,12Th,Yes,Yes
+10063,Meera_63,15.0,Male,Delhi,English,20.6,56.8,,70.0,32.0,35.0,55.2,10Th,Yes,No
+10185,Kunal_185,19.0,Female,Ajmer,English,5.5,94.0,53.0,42.0,46.0,39.0,88.1,10Th,No,No
+10428,Yash_428,19.0,Female,Jodhpur,Mathematics,8.9,85.9,49.0,60.0,33.0,79.0,41.0,10Th,Yes,Yes
+10351,Aanya_351,17.0,Male,Jodhpur,Science,28.1,77.6,76.0,84.0,89.0,82.0,54.4,Graduate,Yes,Yes
+10116,Yash_116,19.0,Female,Delhi,Computer Science,5.6,63.8,41.0,47.0,60.0,100.0,75.1,Graduate,Yes,Yes
+10115,Tanya_115,17.0,Female,Alwar,Computer Science,26.0,64.9,41.0,46.0,91.0,98.0,42.3,Graduate,Yes,Yes
+10364,Diya_364,19.0,Female,Delhi,English,9.8,56.3,73.0,50.0,65.0,46.0,71.2,Graduate,No,Yes
+10419,Kunal_419,17.0,Female,Kota,Computer Science,2.9,97.3,91.0,78.0,39.0,95.0,63.7,10Th,Yes,No
+10458,Meera_458,17.0,Male,Jodhpur,English,4.4,97.6,81.0,31.0,39.0,51.0,80.7,12Th,Yes,No
+10410,Kavya_410,17.0,Female,Kota,Social Science,17.2,56.8,98.0,53.0,45.0,53.0,89.7,Graduate,Yes,Yes
+10047,Diya_47,17.0,Female,Bikaner,Computer Science,17.4,83.4,78.0,44.0,83.0,77.0,83.6,Post Graduate,No,No
+10301,Priya_301,18.0,Female,Delhi,Science,34.0,60.6,87.0,65.0,41.0,92.0,65.0,Graduate,Yes,Yes
+10459,Aanya_459,18.0,Female,Udaipur,Computer Science,27.1,61.4,91.0,34.0,97.0,65.0,72.4,Post Graduate,Yes,No
+10054,Rohan_54,17.0,Male,Alwar,Social Science,22.2,60.8,110.0,47.0,85.0,56.0,64.1,Post Graduate,Yes,Yes
+10141,Pooja_141,16.0,Female,Ajmer,Computer Science,2.8,81.8,53.0,55.0,98.0,89.0,53.0,10Th,Yes,No
+10181,Ananya_181,18.0,Male,Jodhpur,Social Science,22.7,95.2,51.0,84.0,76.0,96.0,74.2,Graduate,Yes,Yes
+10005,Pooja_5,17.0,Female,Ajmer,English,22.9,59.7,80.0,50.0,88.0,84.0,79.2,10Th,Yes,Yes
+10475,Rohan_475,15.0,Female,Udaipur,English,21.7,88.0,50.0,49.0,69.0,56.0,83.5,12Th,Yes,Yes
+10066,Pooja_66,15.0,Female,Bikaner,English,24.5,69.5,77.0,73.0,91.0,100.0,56.2,10Th,Yes,No
+10339,Kunal_339,18.0,Male,Delhi,Social Science,3.9,76.6,98.0,80.0,85.0,63.0,47.7,Post Graduate,Yes,No
+10170,Riya_170,18.0,Male,Ajmer,Mathematics,21.4,86.3,54.0,51.0,33.0,77.0,52.7,Post Graduate,Yes,Yes
+10378,Diya_378,17.0,Male,Alwar,Mathematics,13.4,63.4,85.0,67.0,71.0,53.0,86.0,Post Graduate,Yes,Yes
+10324,Pooja_324,19.0,Female,Jodhpur,Computer Science,10.0,88.8,69.0,68.0,83.0,85.0,56.2,Post Graduate,Yes,No
+10291,Kunal_291,17.0,Male,Bikaner,Mathematics,27.7,94.4,64.0,100.0,45.0,49.0,57.4,12Th,NO,No
+10027,Kunal_27,17.0,Male,Alwar,Science,18.7,61.2,96.0,83.0,33.0,37.0,55.9,10Th,Yes,No
+10179,Meera_179,17.0,Male,Ajmer,Science,12.9,56.9,48.0,93.0,80.0,45.0,,Graduate,Yes,Yes
+10164,Rahul_164,17.0,Female,Delhi,Mathematics,11.8,86.0,46.0,88.0,35.0,85.0,67.8,Post Graduate,Yes,No
+10156,Diya_156,17.0,Female,Ajmer,Computer Science,17.8,92.0,46.0,99.0,84.0,54.0,78.4,10Th,Yes,No
+10500,Ananya_500,19.0,Male,Bikaner,Computer Science,34.7,97.4,53.0,34.0,33.0,48.0,94.4,12Th,No,No
+10218,Aanya_218,17.0,Male,Delhi,English,26.6,68.5,80.0,54.0,73.0,76.0,54.5,Graduate,Yes,Yes
+10303,Arjun_303,16.0,Female,Alwar,Social Science,23.5,,35.0,79.0,71.0,66.0,85.0,10Th,Yes,Yes
+10442,Yash_442,15.0,Male,Ajmer,Computer Science,20.8,83.0,99.0,98.0,74.0,92.0,57.0,Post Graduate,Yes,Yes
+10321,Aanya_321,17.0,Female,Delhi,Mathematics,3.8,94.0,35.0,79.0,59.0,89.0,69.8,Graduate,Yes,Yes
+10347,Aarav_347,18.0,Male,Ajmer,Social Science,29.2,84.8,48.0,96.0,44.0,87.0,55.6,10Th,Yes,No
+10150,Ananya_150,16.0,Male,Delhi,English,33.5,93.5,39.0,48.0,96.0,58.0,69.3,10Th,Yes,Yes
+10356,Rahul_356,15.0,Female,Alwar,Science,33.8,94.0,39.0,83.0,84.0,100.0,69.7,Graduate,Yes,NO
+10491,Aanya_491,19.0,Female,Alwar,Social Science,33.9,71.1,36.0,55.0,70.0,69.0,66.7,Graduate,No,No
+10035,Kavya_35,17.0,Female,Jaipur,Social Science,2.2,75.6,41.0,83.0,87.0,69.0,80.8,10Th,Yes,No
+10316,Yash_316,15.0,Female,Bikaner,Computer Science,22.6,64.0,76.0,64.0,47.0,76.0,58.0,12Th,Yes,No
+10111,Sneha_111,19.0,Female,Jaipur,Mathematics,21.6,98.5,76.0,57.0,82.0,65.0,51.6,Graduate,Yes,Yes
+10228,Tanya_228,16.0,Male,Delhi,Science,8.9,96.7,97.0,67.0,68.0,70.0,77.5,Post Graduate,Yes,No
+10367,Riya_367,19.0,Male,Udaipur,Science,12.5,72.1,72.0,84.0,97.0,66.0,52.4,12Th,Yes,No
+10395,Meera_395,18.0,Female,Ajmer,English,26.5,89.3,84.0,70.0,97.0,88.0,44.6,12Th,Yes,Yes
+10374,Ananya_374,18.0,Female,Bikaner,Social Science,25.4,98.7,35.0,91.0,44.0,54.0,80.9,Post Graduate,Yes,No
+10408,Kabir_408,16.0,Male,Bikaner,Science,22.2,94.6,89.0,72.0,59.0,44.0,77.9,10Th,Yes,Yes
+10151,Kunal_151,18.0,Male,Delhi,Mathematics,17.9,98.9,86.0,74.0,34.0,56.0,79.9,12Th,Yes,Yes
+10143,Vivaan_143,15.0,Male,Ajmer,Science,18.2,87.5,93.0,93.0,46.0,34.0,73.9,Post Graduate,No,Yes
+10296,Rohan_296,18.0,Male,Delhi,Science,3.1,87.2,75.0,34.0,81.0,56.0,79.5,Graduate,Yes,No
+10272,Kabir_272,17.0,Female,Jodhpur,Social Science,11.0,95.4,56.0,92.0,85.0,96.0,77.6,Graduate,Yes,No
+10332,Riya_332,,Male,Kota,Mathematics,22.8,64.7,42.0,91.0,38.0,72.0,49.7,Graduate,Yes,Yes
+10001,Vivaan_1,18.0,Male,Alwar,Social Science,12.8,78.6,80.0,96.0,93.0,54.0,66.3,Post Graduate,No,Yes
+10304,Rahul_304,18.0,Male,Udaipur,English,12.0,72.3,76.0,96.0,80.0,47.0,50.9,Graduate,Yes,No
+10175,Rahul_175,16.0,Male,Jodhpur,Science,19.3,75.5,66.0,51.0,56.0,45.0,45.2,10Th,Yes,No
+10177,Rahul_177,18.0,Male,Jodhpur,Science,33.1,73.2,40.0,43.0,90.0,58.0,52.8,Post Graduate,Yes,No
+10469,Sneha_469,17.0,Female,Alwar,Science,34.4,60.4,72.0,30.0,47.0,,51.2,10Th,Yes,No
+10302,Arjun_302,18.0,Female,Jaipur,Social Science,9.4,95.8,62.0,58.0,30.0,87.0,79.8,Post Graduate,Yes,No
+10223,Priya_223,18.0,Male,Udaipur,Social Science,29.7,62.4,78.0,43.0,57.0,99.0,84.3,Graduate,Yes,Yes
+10241,Kavya_241,15.0,Male,Jaipur,English,16.2,93.0,78.0,71.0,49.0,93.0,58.7,Post Graduate,Yes,No
+10156,Diya_156,17.0,Female,Ajmer,Computer Science,17.8,92.0,46.0,99.0,84.0,54.0,78.4,10Th,Yes,No
+10343,Rohan_343,18.0,Male,Delhi,Social Science,9.8,96.7,65.0,81.0,51.0,42.0,85.0,10Th,Yes,Yes
+10288,Aanya_288,16.0,Female,,Computer Science,25.0,69.3,62.0,47.0,78.0,58.0,50.9,10Th,No,No
+10376,Ananya_376,15.0,Male,Ajmer,English,30.5,92.6,64.0,70.0,91.0,96.0,83.6,Graduate,Yes,No
+10186,Aditya_186,19.0,Male,Bikaner,Mathematics,7.9,62.2,65.0,64.0,69.0,70.0,42.5,12Th,Yes,No
+10238,Priya_238,17.0,Male,Bikaner,Computer Science,16.7,64.0,79.0,67.0,84.0,46.0,87.9,Post Graduate,Yes,No
+10147,Pooja_147,18.0,Female,Alwar,Computer Science,17.4,72.7,99.0,97.0,34.0,43.0,68.0,Post Graduate,Yes,Yes
+10333,Riya_333,18.0,Male,Alwar,English,28.0,78.6,40.0,51.0,54.0,99.0,69.4,12Th,Yes,Yes
+10105,Aanya_105,18.0,Male,Jaipur,Social Science,31.7,85.0,69.0,92.0,72.0,78.0,69.1,Post Graduate,Yes,No
+10010,Aarav_10,19.0,Male,Ajmer,Computer Science,17.2,67.4,85.0,92.0,75.0,91.0,41.1,Graduate,No,No
+10383,Diya_383,19.0,Female,Jodhpur,Computer Science,28.8,87.2,59.0,53.0,50.0,57.0,92.1,Post Graduate,Yes,No
+10380,Priya_380,18.0,Male,Delhi,Science,10.6,93.7,67.0,75.0,86.0,45.0,56.4,Graduate,Yes,Yes
+10167,Meera_167,15.0,Female,Udaipur,Science,30.4,61.9,63.0,71.0,76.0,96.0,72.9,Graduate,Yes,No
+10148,Yash_148,18.0,Male,Alwar,English,34.5,97.1,69.0,93.0,91.0,73.0,78.3,12Th,Yes,No
+10368,Kavya_368,17.0,Male,Jaipur,Science,29.6,77.5,58.0,69.0,74.0,58.0,89.0,Graduate,Yes,Yes
+10014,Riya_14,19.0,Male,Jaipur,English,12.3,73.7,99.0,51.0,65.0,54.0,91.8,Graduate,Yes,Yes
+10467,Vivaan_467,15.0,Female,Bikaner,English,24.5,61.3,49.0,55.0,60.0,94.0,45.6,12Th,Yes,Yes
+10121,Yash_121,17.0,Female,Ajmer,Social Science,32.4,93.5,44.0,72.0,97.0,33.0,73.7,10Th,Yes,No
+10349,Rahul_349,17.0,Female,Jaipur,English,28.3,79.1,81.0,44.0,43.0,84.0,94.0,12Th,Yes,No
+10224,Aarav_224,15.0,Male,Jaipur,English,17.0,94.5,85.0,73.0,44.0,49.0,50.4,Graduate,Yes,Yes
+10287,Aarav_287,18.0,Female,Kota,Science,28.1,71.9,60.0,31.0,74.0,80.0,74.0,Post Graduate,No,Yes
+10239,Meera_239,19.0,Male,Bikaner,Mathematics,11.5,80.1,50.0,82.0,59.0,34.0,90.8,Graduate,No,Yes
+10244,Aditya_244,16.0,Female,Jodhpur,Science,2.3,89.8,47.0,54.0,42.0,70.0,69.7,10Th,No,No
+10037,Aditya_37,16.0,Male,Jodhpur,Social Science,27.3,60.2,96.0,40.0,72.0,89.0,40.2,12Th,Yes,Yes
+10229,Pooja_229,18.0,Female,Udaipur,Social Science,22.5,67.8,73.0,75.0,89.0,87.0,72.3,10Th,Yes,No
+10069,Pooja_69,16.0,Male,Delhi,Social Science,19.3,67.1,36.0,73.0,66.0,96.0,60.7,Post Graduate,No,Yes
+10233,Pooja_233,17.0,Male,Alwar,Social Science,13.0,66.0,68.0,100.0,47.0,32.0,55.6,Post Graduate,Yes,Yes
+10268,Aarav_268,18.0,Female,Ajmer,Mathematics,16.4,82.5,91.0,73.0,72.0,32.0,53.4,12Th,Yes,No
+10101,Aanya_101,19.0,Female,Alwar,Social Science,33.0,59.3,55.0,45.0,30.0,58.0,82.7,Post Graduate,Yes,Yes
+10282,Diya_282,18.0,Male,Jaipur,Science,32.9,70.2,35.0,60.0,81.0,51.0,51.9,Graduate,Yes,No
+10119,Aarav_119,18.0,Female,Bikaner,English,,71.0,96.0,66.0,38.0,73.0,45.3,10Th,Yes,No
+10130,Pooja_130,19.0,Female,Alwar,Social Science,24.7,65.9,45.0,70.0,90.0,96.0,67.1,Post Graduate,Yes,Yes
+10314,Ishita_314,15.0,Female,Kota,Social Science,30.0,87.3,88.0,62.0,93.0,66.0,46.9,Post Graduate,Yes,No
+10083,Kavya_83,18.0,Male,Ajmer,English,6.1,95.0,96.0,32.0,61.0,43.0,84.9,Graduate,Yes,No
+10180,Meera_180,17.0,Male,Alwar,Social Science,35.0,72.3,65.0,45.0,38.0,86.0,73.9,12Th,No,Yes
+10427,Yash_427,18.0,Female,Udaipur,Science,30.4,92.8,45.0,47.0,32.0,55.0,72.9,12Th,Yes,No
+10466,Sneha_466,15.0,Female,Ajmer,Mathematics,25.2,56.5,65.0,76.0,30.0,75.0,74.7,10Th,Yes,Yes
+10474,Diya_474,18.0,Female,Alwar,Computer Science,5.1,79.9,58.0,43.0,65.0,65.0,67.5,Graduate,Yes,No
+10046,Diya_46,19.0,Female,Jodhpur,Computer Science,9.8,,79.0,64.0,70.0,78.0,52.2,12Th,Yes,No
+10371,Priya_371,19.0,Female,Jodhpur,Mathematics,11.4,67.7,52.0,73.0,83.0,58.0,48.5,Graduate,No,No
+10298,Kunal_298,17.0,Male,Udaipur,Mathematics,8.1,58.1,96.0,37.0,65.0,91.0,55.9,10Th,Yes,Yes
+10242,Priya_242,19.0,Female,Delhi,Computer Science,15.5,74.7,36.0,35.0,77.0,97.0,91.7,10Th,Yes,Yes
+10473,Kavya_473,17.0,Female,Jodhpur,Science,8.3,92.2,98.0,36.0,99.0,68.0,89.4,10Th,Yes,No
+10193,Rohan_193,17.0,Male,Bikaner,Social Science,21.3,95.0,63.0,75.0,70.0,31.0,46.4,12Th,No,No
+10225,Kabir_225,15.0,Female,Jaipur,Science,7.5,97.6,68.0,97.0,53.0,39.0,72.9,Post Graduate,Yes,Yes
+10154,Priya_154,15.0,Female,Jaipur,English,24.0,94.7,92.0,55.0,81.0,86.0,69.6,Graduate,Yes,No
+10393,Kabir_393,18.0,Female,Delhi,Computer Science,9.4,86.9,48.0,62.0,78.0,38.0,53.9,12Th,Yes,No
+10188,Kavya_188,15.0,Female,Ajmer,Science,28.5,68.0,70.0,47.0,54.0,57.0,56.6,Post Graduate,No,No
+10094,Aarav_94,18.0,Female,Udaipur,Computer Science,8.6,95.1,87.0,61.0,86.0,82.0,68.3,Graduate,Yes,Yes
+10124,Ananya_124,16.0,Male,Ajmer,Computer Science,31.6,72.3,88.0,87.0,92.0,83.0,53.3,Post Graduate,Yes,No
+10326,Arjun_326,18.0,Female,Jodhpur,Social Science,31.8,55.6,56.0,90.0,39.0,94.0,89.2,10Th,Yes,Yes
+10168,Priya_168,17.0,Male,Jodhpur,English,18.7,55.9,100.0,100.0,68.0,43.0,40.4,10Th,Yes,No
+10060,Meera_60,15.0,Male,Kota,Social Science,23.2,63.4,68.0,35.0,78.0,60.0,58.7,10Th,Yes,No
+10049,Meera_49,17.0,Female,Bikaner,Computer Science,28.1,78.7,82.0,66.0,38.0,91.0,40.6,10Th,Yes,No
+10232,Aarav_232,18.0,Female,Kota,Computer Science,12.5,68.1,36.0,57.0,31.0,99.0,47.1,Graduate,Yes,Yes
+10203,Riya_203,18.0,Male,Jaipur,Mathematics,30.2,79.6,90.0,82.0,48.0,72.0,71.0,Graduate,Yes,Yes
+10220,Kavya_220,19.0,Female,Ajmer,English,20.3,64.2,83.0,84.0,52.0,86.0,92.4,10Th,Yes,No
+10052,Rahul_52,19.0,Male,Bikaner,Computer Science,7.8,69.2,76.0,58.0,91.0,83.0,83.6,Post Graduate,No,Yes
+10118,Kunal_118,19.0,Male,Udaipur,Social Science,17.5,85.7,84.0,86.0,90.0,92.0,50.5,Graduate,Yes,Yes
+10478,Meera_478,17.0,Female,Jaipur,Science,,95.7,66.0,49.0,85.0,42.0,74.2,12Th,No,Yes
+10071,Kabir_71,18.0,Female,Delhi,English,4.5,69.5,37.0,41.0,75.0,62.0,44.1,12Th,Yes,Yes
+10320,Rohan_320,17.0,Female,Ajmer,Science,24.2,58.6,45.0,47.0,63.0,57.0,51.7,12Th,Yes,Yes
+10021,Kavya_21,15.0,Female,Kota,English,12.8,65.8,60.0,36.0,97.0,40.0,69.2,12Th,Yes,No
+10210,Ananya_210,16.0,Male,Alwar,English,2.4,58.7,68.0,89.0,55.0,31.0,92.2,Graduate,Yes,Yes
+10267,Arjun_267,16.0,Female,Delhi,Social Science,6.7,75.8,48.0,66.0,33.0,84.0,53.3,Post Graduate,Yes,Yes
+10064,Aarav_64,16.0,Male,Jaipur,Mathematics,15.3,58.4,72.0,38.0,31.0,38.0,41.3,Post Graduate,Yes,Yes
+10480,Arjun_480,17.0,Female,Alwar,Social Science,34.1,68.5,64.0,33.0,82.0,41.0,48.5,12Th,Yes,No
+10098,Diya_98,19.0,Female,Ajmer,Social Science,3.0,89.1,62.0,30.0,52.0,41.0,41.5,10Th,No,No
+10411,Arjun_411,18.0,Male,Alwar,Mathematics,19.1,66.6,90.0,43.0,33.0,51.0,46.0,10Th,Yes,Yes
+10172,Riya_172,18.0,Female,Bikaner,Mathematics,22.5,98.7,57.0,58.0,48.0,72.0,92.8,10Th,Yes,Yes
+10273,Vivaan_273,19.0,Male,Udaipur,Social Science,32.9,91.6,94.0,43.0,67.0,83.0,49.2,10Th,No,No
+10329,Diya_329,19.0,Female,Jaipur,Social Science,3.2,59.4,46.0,68.0,97.0,68.0,59.8,12Th,Yes,Yes
+10109,Aarav_109,18.0,Female,Alwar,Mathematics,25.2,66.1,60.0,44.0,92.0,,75.1,12Th,Yes,No
+10033,Kabir_33,17.0,Male,Kota,Mathematics,15.3,84.5,67.0,56.0,96.0,68.0,46.8,12Th,Yes,Yes
+10125,Kavya_125,16.0,Female,Udaipur,Computer Science,7.1,99.2,73.0,37.0,76.0,47.0,73.3,10Th,Yes,Yes
+10183,Pooja_183,19.0,Male,Jaipur,Science,18.4,58.4,38.0,76.0,67.0,30.0,50.7,Graduate,Yes,No
+10257,Aanya_257,18.0,Male,Alwar,Mathematics,31.8,99.8,70.0,50.0,98.0,84.0,61.9,10Th,Yes,Yes
+10099,Vivaan_99,17.0,Female,Bikaner,Computer Science,31.3,68.5,94.0,40.0,37.0,40.0,55.6,12Th,Yes,No
+10443,Aarav_443,16.0,Female,Alwar,Science,30.6,95.9,98.0,48.0,74.0,100.0,76.7,10Th,Yes,No
+10093,Aarav_93,18.0,Female,Jodhpur,Social Science,3.1,65.9,56.0,71.0,58.0,56.0,61.7,Graduate,Yes,Yes
+10039,Arjun_39,17.0,Female,Jaipur,Science,25.0,80.7,42.0,88.0,36.0,71.0,40.0,Post Graduate,Yes,No
+10133,Vivaan_133,19.0,Male,Ajmer,Computer Science,30.9,56.9,37.0,68.0,66.0,65.0,86.5,12Th,Yes,Yes
+10096,Kunal_96,19.0,Female,Jaipur,Social Science,16.2,70.6,39.0,81.0,71.0,73.0,84.3,Post Graduate,No,No
+10354,Kabir_354,17.0,Female,Ajmer,Mathematics,19.5,78.3,87.0,77.0,48.0,98.0,44.2,Post Graduate,Yes,Yes
+10036,Pooja_36,19.0,Male,Delhi,English,12.0,66.1,89.0,53.0,96.0,76.0,51.7,10Th,Yes,No
+10265,Yash_265,16.0,Female,Jodhpur,Science,24.5,61.0,64.0,31.0,69.0,42.0,85.5,10Th,Yes,No
+10340,Aarav_340,15.0,Male,Jodhpur,English,26.5,86.0,94.0,69.0,33.0,70.0,71.2,Graduate,No,No
+10086,Kunal_86,16.0,Female,Ajmer,English,22.8,91.8,98.0,43.0,47.0,90.0,46.5,Post Graduate,Yes,Yes
+10370,Vivaan_370,16.0,Female,Udaipur,Mathematics,18.1,80.5,100.0,82.0,42.0,42.0,68.6,Post Graduate,Yes,No
+10215,Rahul_215,,Female,Bikaner,Computer Science,25.6,87.2,99.0,100.0,67.0,63.0,90.1,12Th,Yes,Yes
+10270,Kabir_270,19.0,Female,Jodhpur,English,33.7,69.2,80.0,75.0,41.0,77.0,75.4,Post Graduate,Yes,No
+10222,Meera_222,19.0,Female,Udaipur,English,8.0,93.7,35.0,,99.0,75.0,77.1,10Th,Yes,No
+10230,Aarav_230,18.0,Male,Alwar,Mathematics,12.6,73.9,94.0,77.0,76.0,48.0,64.7,10Th,Yes,Yes
+10034,Ananya_34,15.0,Male,Bikaner,Computer Science,27.9,92.2,50.0,39.0,58.0,90.0,41.7,Graduate,Yes,No
+10278,Pooja_278,15.0,Male,Ajmer,Social Science,7.0,72.5,38.0,62.0,86.0,93.0,89.2,Graduate,Yes,No
+10196,Priya_196,18.0,Female,Jodhpur,Mathematics,21.6,70.4,68.0,85.0,46.0,55.0,93.6,12Th,Yes,Yes
+10216,Kavya_216,17.0,Female,Delhi,Mathematics,12.4,91.6,83.0,91.0,35.0,100.0,57.6,Post Graduate,Yes,No
+10465,Aarav_465,15.0,Male,Udaipur,Social Science,20.4,99.2,43.0,84.0,39.0,74.0,89.5,12Th,Yes,No
+10365,Kabir_365,17.0,Male,Bikaner,English,34.0,98.0,60.0,31.0,77.0,39.0,42.4,Post Graduate,Yes,Yes
+10360,Aanya_360,17.0,Female,Delhi,Social Science,30.7,65.6,86.0,67.0,55.0,38.0,,Post Graduate,Yes,No
+10271,Aanya_271,19.0,Female,Kota,Mathematics,23.2,91.9,68.0,60.0,56.0,75.0,83.0,Graduate,Yes,No
+10451,Priya_451,15.0,Female,Alwar,Social Science,34.6,67.0,93.0,56.0,76.0,73.0,94.3,Graduate,Yes,No
+10070,Aditya_70,17.0,Female,Jaipur,Mathematics,26.7,91.8,45.0,94.0,85.0,88.0,86.4,10Th,Yes,Yes
+10090,Rohan_90,19.0,Female,Kota,Mathematics,24.7,89.5,79.0,100.0,64.0,88.0,44.5,10Th,Yes,No
+10003,Priya_3,19.0,Male,Ajmer,Mathematics,2.5,60.3,55.0,80.0,34.0,63.0,69.2,10Th,Yes,No
+10020,Sneha_20,18.0,Female,Jaipur,English,28.4,77.1,61.0,94.0,41.0,32.0,81.1,Graduate,Yes,No
+10068,Arjun_68,15.0,Female,Jaipur,Mathematics,25.9,62.7,81.0,90.0,65.0,82.0,86.5,12Th,Yes,No
+10189,Kunal_189,17.0,Male,Udaipur,Computer Science,3.6,58.0,42.0,88.0,73.0,99.0,62.5,Post Graduate,Yes,Yes
+10479,Rohan_479,16.0,Female,Ajmer,Mathematics,7.2,99.9,90.0,59.0,41.0,47.0,80.0,12Th,Yes,No
+10308,Rohan_308,18.0,Female,Delhi,English,19.8,77.8,78.0,43.0,71.0,92.0,74.5,12Th,Yes,Yes
+10417,Vivaan_417,18.0,Female,Delhi,Science,21.8,94.3,43.0,81.0,86.0,89.0,78.1,Post Graduate,Yes,Yes
+10253,Kavya_253,17.0,Female,Jaipur,Social Science,30.2,65.7,63.0,68.0,83.0,80.0,90.7,10Th,Yes,Yes
+10335,Ananya_335,16.0,Female,Jaipur,Science,8.9,68.0,91.0,36.0,86.0,73.0,44.7,Graduate,Yes,Yes
+10484,Rohan_484,18.0,Female,Delhi,Science,20.9,58.7,57.0,68.0,71.0,80.0,66.0,10Th,Yes,Yes
+10044,Kabir_44,15.0,Female,Jodhpur,Social Science,20.9,81.1,53.0,44.0,68.0,99.0,42.1,Post Graduate,Yes,No
+10399,Vivaan_399,15.0,Male,Ajmer,Social Science,27.2,62.5,43.0,85.0,47.0,100.0,59.5,Graduate,Yes,No
+10321,Aanya_321,17.0,Female,Delhi,Mathematics,3.8,94.0,35.0,79.0,59.0,89.0,69.8,Graduate,Yes,Yes
+10067,Sneha_67,17.0,M,Ajmer,Computer Science,31.2,74.0,56.0,32.0,54.0,69.0,47.4,Post Graduate,Yes,Yes
+10162,Priya_162,16.0,Male,Delhi,Social Science,31.4,93.1,82.0,50.0,78.0,85.0,55.1,Post Graduate,No,No
+10213,Ishita_213,19.0,Male,Udaipur,Science,25.1,57.0,69.0,43.0,61.0,54.0,61.7,Post Graduate,Yes,Yes
+10434,Vivaan_434,15.0,Female,Udaipur,Computer Science,10.6,60.8,35.0,95.0,83.0,79.0,44.6,Post Graduate,Yes,No
+10165,Sneha_165,16.0,Female,Udaipur,Science,25.0,85.5,66.0,70.0,36.0,63.0,73.3,Graduate,Yes,Yes
+10318,Tanya_318,19.0,Female,Udaipur,Mathematics,10.3,78.2,79.0,55.0,80.0,87.0,56.4,Graduate,Yes,Yes
+10277,Diya_277,15.0,Male,Ajmer,Science,11.1,55.1,74.0,55.0,80.0,86.0,44.8,Post Graduate,Yes,No
+10195,Arjun_195,16.0,Female,Bikaner,Mathematics,30.3,82.6,60.0,69.0,45.0,70.0,61.0,Graduate,No,Yes
+10435,Kabir_435,17.0,Female,Bikaner,English,3.6,68.8,46.0,33.0,97.0,80.0,65.2,10Th,Yes,Yes
+10447,Rahul_447,18.0,Male,Kota,Science,30.1,91.0,86.0,88.0,88.0,62.0,57.2,Post Graduate,Yes,No
+10392,Aanya_392,19.0,Male,Ajmer,English,32.2,76.3,73.0,43.0,82.0,72.0,62.0,,Yes,No
+10015,Vivaan_15,15.0,Male,Bikaner,Computer Science,26.5,82.8,87.0,82.0,68.0,71.0,94.4,12Th,Yes,Yes
+10252,Ananya_252,19.0,Male,Kota,Social Science,8.7,63.4,74.0,91.0,37.0,90.0,46.9,10Th,Yes,No
+10397,Kunal_397,19.0,Male,Jaipur,Computer Science,11.2,89.6,78.0,51.0,64.0,65.0,67.7,Graduate,Yes,No
+10471,Sneha_471,19.0,Male,Jaipur,Computer Science,31.5,59.9,45.0,68.0,57.0,77.0,56.7,Post Graduate,Yes,Yes
+10140,Rohan_140,17.0,Male,Alwar,Mathematics,8.0,98.2,71.0,98.0,33.0,74.0,47.4,Graduate,Yes,No
+10076,Sneha_76,17.0,Male,Kota,English,31.5,80.3,71.0,55.0,92.0,88.0,64.7,10Th,Yes,Yes
+10080,Kavya_80,16.0,Female,Udaipur,Social Science,4.8,77.9,77.0,42.0,32.0,46.0,91.4,Graduate,Yes,No
+10023,Riya_23,16.0,Male,Jaipur,Computer Science,15.9,64.4,86.0,93.0,82.0,60.0,92.9,Graduate,Yes,Yes
+10059,Aarav_59,15.0,Male,Jaipur,Computer Science,35.0,65.4,87.0,89.0,81.0,30.0,92.0,Graduate,Yes,No
+10102,Kavya_102,15.0,Male,Jaipur,Mathematics,5.3,62.0,71.0,51.0,41.0,49.0,40.9,Graduate,yes,No
+10366,Kabir_366,17.0,Female,Jodhpur,English,27.6,95.4,96.0,45.0,41.0,99.0,87.0,Post Graduate,Yes,No
+10289,Diya_289,15.0,Male,Alwar,English,15.5,86.6,79.0,76.0,83.0,83.0,62.6,Post Graduate,Yes,No
+10482,Ishita_482,16.0,Male,Ajmer,English,18.4,88.8,86.0,31.0,61.0,48.0,89.9,10Th,Yes,No
+10074,Rahul_74,19.0,Female,Delhi,Mathematics,2.7,84.3,41.0,91.0,67.0,61.0,62.8,10Th,Yes,No
+10260,Rahul_260,19.0,Male,Bikaner,Social Science,3.1,66.8,75.0,37.0,72.0,87.0,88.1,12Th,Yes,Yes
+10312,Sneha_312,16.0,Male,Alwar,Science,29.8,68.1,83.0,94.0,43.0,44.0,80.3,12Th,No,No
+10160,Sneha_160,17.0,Male,Jodhpur,Science,26.6,63.3,82.0,85.0,48.0,90.0,65.3,Graduate,Yes,No
+10217,Sneha_217,17.0,Male,Jaipur,Computer Science,6.2,63.0,52.0,68.0,99.0,52.0,88.4,12Th,Yes,Yes
+10292,Aarav_292,16.0,Female,Alwar,Computer Science,23.7,61.4,36.0,43.0,46.0,32.0,60.0,10Th,Yes,Yes
+10227,Ananya_227,16.0,Male,Jodhpur,English,13.0,74.2,77.0,74.0,87.0,89.0,80.1,10Th,Yes,Yes
+10050,Rahul_50,17.0,Female,Jodhpur,Computer Science,9.3,65.5,74.0,88.0,68.0,96.0,43.1,10Th,Yes,No
+10153,Rohan_153,17.0,Male,Delhi,Social Science,19.5,84.2,55.0,61.0,42.0,56.0,71.0,Graduate,Yes,No
+10138,Rohan_138,17.0,Male,Ajmer,Science,18.6,65.6,74.0,38.0,81.0,98.0,50.8,12Th,Yes,Yes
+10422,Diya_422,17.0,Male,Ajmer,Computer Science,8.8,59.0,93.0,82.0,79.0,66.0,53.5,10Th,Yes,Yes
+10293,Ishita_293,16.0,Male,Udaipur,Science,22.5,73.1,94.0,51.0,64.0,70.0,89.4,Graduate,Yes,Yes
+10004,Priya_4,18.0,Female,Jaipur,Science,29.2,99.4,56.0,52.0,42.0,88.0,61.9,Graduate,Yes,Yes
+10449,Yash_449,16.0,Male,Udaipur,Mathematics,19.6,92.4,56.0,64.0,67.0,60.0,65.0,10Th,Yes,Yes
+10246,Aanya_246,17.0,Male,Delhi,Mathematics,19.6,68.4,48.0,44.0,99.0,78.0,66.5,12Th,Yes,No
+10297,Priya_297,15.0,Female,Bikaner,Social Science,15.8,66.1,69.0,74.0,91.0,78.0,82.2,Graduate,Yes,No
+10490,Kabir_490,15.0,Male,Alwar,Social Science,27.4,62.8,49.0,85.0,52.0,82.0,42.8,10Th,Yes,No
+10494,Yash_494,15.0,Male,Ajmer,English,13.2,98.3,62.0,94.0,30.0,67.0,41.9,12Th,Yes,No
+10327,Priya_327,15.0,Female,Bikaner,Social Science,27.9,83.5,97.0,86.0,96.0,74.0,83.1,12Th,Yes,No
+10352,Ishita_352,16.0,Male,Alwar,Science,25.0,89.1,,38.0,77.0,73.0,73.1,10Th,Yes,No
+10362,Rahul_362,16.0,Male,Alwar,Science,16.0,55.9,42.0,48.0,80.0,54.0,94.4,Post Graduate,Yes,Yes
+10149,Ishita_149,19.0,Female,Kota,Computer Science,17.2,61.5,64.0,59.0,49.0,60.0,84.1,10Th,Yes,Yes
+10414,Rohan_414,15.0,Female,Udaipur,Computer Science,28.7,94.3,53.0,81.0,57.0,35.0,74.8,Graduate,Yes,No
+10464,Priya_464,17.0,Female,Delhi,Mathematics,16.8,78.7,77.0,58.0,77.0,31.0,40.9,10Th,No,No
+10048,Ishita_48,19.0,Female,Kota,Mathematics,3.2,67.1,55.0,57.0,85.0,44.0,94.5,Graduate,No,No
+10011,Rahul_11,16.0,Female,Bikaner,Mathematics,11.9,66.4,53.0,36.0,94.0,96.0,49.3,Graduate,No,Yes
+10202,Tanya_202,18.0,Female,Jodhpur,Computer Science,26.8,91.9,89.0,35.0,77.0,37.0,58.7,10Th,Yes,Yes
+10251,Aanya_251,19.0,Female,Alwar,Science,16.0,63.5,91.0,87.0,64.0,58.0,52.9,10Th,Yes,Yes
+10018,Rohan_18,25.0,Male,Bikaner,Science,24.0,87.7,54.0,92.0,46.0,52.0,63.3,12Th,Yes,Yes
+10317,Tanya_317,17.0,Male,Jaipur,Science,2.2,55.4,54.0,74.0,98.0,,62.8,10Th,No,No
+10113,Kabir_113,15.0,Male,Ajmer,Computer Science,31.7,90.8,72.0,61.0,66.0,53.0,80.8,10Th,Yes,No
+10325,Yash_325,19.0,Male,Jaipur,Computer Science,12.7,86.0,99.0,93.0,42.0,48.0,88.4,10Th,Yes,No
+10026,Yash_26,15.0,Male,Ajmer,Mathematics,20.8,65.5,47.0,57.0,77.0,76.0,89.4,Graduate,Yes,No
+10295,Yash_295,15.0,Male,Kota,Science,14.8,59.7,53.0,59.0,88.0,35.0,73.1,12Th,No,Yes
+10305,Tanya_305,16.0,Female,Bikaner,English,19.5,84.1,51.0,33.0,46.0,40.0,74.1,12Th,Yes,No
+10418,Tanya_418,18.0,Female,Alwar,Computer Science,29.8,89.5,41.0,43.0,57.0,42.0,56.0,Post Graduate,Yes,No
+10405,Meera_405,17.0,Female,Alwar,Social Science,31.3,70.3,46.0,71.0,42.0,59.0,75.3,12Th,Yes,Yes
+10112,Rahul_112,15.0,Male,Ajmer,Social Science,29.7,69.4,59.0,83.0,41.0,96.0,49.2,10Th,Yes,No
+10136,Diya_136,18.0,Male,Bikaner,Mathematics,24.4,80.5,60.0,70.0,98.0,70.0,85.2,Post Graduate,Yes,Yes
+10097,Sneha_97,16.0,Male,Udaipur,Social Science,33.4,60.0,66.0,45.0,91.0,58.0,75.9,12Th,Yes,Yes
+10264,Ananya_264,17.0,Female,Bikaner,Mathematics,4.0,69.6,81.0,48.0,42.0,78.0,49.5,Graduate,Yes,No
+10250,Aarav_250,17.0,Female,Udaipur,Mathematics,17.8,60.9,93.0,92.0,96.0,46.0,94.7,12Th,Yes,No
+10481,Tanya_481,17.0,Female,Ajmer,English,33.2,94.6,91.0,44.0,47.0,56.0,60.8,12Th,Yes,No
+10028,Aarav_28,17.0,Female,Kota,Science,13.7,66.5,46.0,34.0,35.0,95.0,95.7,Graduate,Yes,No
+10206,Vivaan_206,18.0,Male,Ajmer,Science,23.6,57.7,84.0,52.0,52.0,72.0,41.7,Post Graduate,Yes,No
+10439,Kunal_439,18.0,Female,Udaipur,Social Science,16.8,88.6,41.0,98.0,82.0,89.0,69.9,Post Graduate,No,No
+10131,Rohan_131,17.0,Female,Bikaner,Science,7.1,83.8,80.0,95.0,40.0,51.0,56.2,12Th,Yes,No
+10029,Riya_29,18.0,Female,Ajmer,English,-5.0,80.4,83.0,83.0,72.0,30.0,54.0,12Th,Yes,No
+10461,Ananya_461,16.0,Male,Ajmer,Mathematics,14.8,63.4,80.0,43.0,55.0,31.0,53.5,Graduate,Yes,Yes
+10454,Aditya_454,15.0,Female,Jaipur,Science,16.0,75.7,46.0,67.0,39.0,90.0,52.9,Graduate,Yes,No
+10436,Priya_436,17.0,Female,Jodhpur,Science,31.6,68.0,83.0,94.0,79.0,40.0,67.7,Post Graduate,Yes,No
+10413,Riya_413,18.0,Female,Jaipur,Computer Science,7.7,83.4,35.0,42.0,87.0,52.0,94.7,10Th,No,Yes
+10117,Aanya_117,17.0,Male,Jaipur,Science,30.3,86.6,70.0,78.0,81.0,44.0,67.9,12Th,Yes,No
+10030,Arjun_30,17.0,Female, jaipur ,Mathematics,25.9,78.9,52.0,41.0,59.0,80.0,68.9,12Th,Yes,Yes
+10334,Ananya_334,17.0,Female,Alwar,English,32.6,76.9,73.0,96.0,66.0,57.0,80.5,Graduate,Yes,Yes
+10078,Vivaan_78,19.0,Female,Kota,Computer Science,5.1,96.5,76.0,85.0,35.0,52.0,71.8,Graduate,Yes,No
+10441,Aditya_441,19.0,Female,Bikaner,Social Science,12.9,81.1,46.0,50.0,74.0,68.0,72.2,Graduate,No,Yes
+10283,Kavya_283,18.0,Female,Ajmer,Social Science,21.1,65.3,39.0,51.0,52.0,57.0,83.2,12Th,Yes,No
+10391,Aarav_391,16.0,Female,Kota,English,27.1,98.3,42.0,31.0,30.0,85.0,71.9,12Th,Yes,No
+10258,Kabir_258,15.0,Male,Ajmer,Computer Science,29.0,77.6,62.0,48.0,34.0,96.0,91.1,12Th,Yes,Yes
